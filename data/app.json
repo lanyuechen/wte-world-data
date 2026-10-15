@@ -44,7 +44,7 @@
         "5e979879-ece6-41cb-a387-2bb3ddf84a9e"
       ],
       "ingredientStatus": {
-        "番茄": "need",
+        "番茄": "have",
         "鸡蛋": "need",
         "面条": "need",
         "香菇": "need",
@@ -53,7 +53,7 @@
         "黄花菜": "need"
       },
       "createdAt": "2026-10-15T07:43:12.804Z",
-      "updatedAt": "2026-10-15T09:47:41.385Z"
+      "updatedAt": "2026-10-15T09:47:58.431Z"
     }
   ],
   "availableIngredients": [],
