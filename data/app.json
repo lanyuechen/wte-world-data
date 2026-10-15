@@ -35,27 +35,7 @@
       "updatedAt": "2026-10-15T06:05:32.829Z"
     }
   ],
-  "orders": [
-    {
-      "id": "83ad5561-9839-4916-9bba-b132fd5c61fd",
-      "title": "吃什么 · 2026/10/15 15:28:51",
-      "recipeIds": [
-        "63b3b772-6078-49b3-9341-87877f374b54",
-        "5e979879-ece6-41cb-a387-2bb3ddf84a9e"
-      ],
-      "ingredientStatus": {
-        "番茄": "need",
-        "鸡蛋": "need",
-        "面条": "need",
-        "香菇": "need",
-        "木耳": "need",
-        "豆腐": "need",
-        "黄花菜": "need"
-      },
-      "createdAt": "2026-10-15T07:28:51.989Z",
-      "updatedAt": "2026-10-15T07:28:51.989Z"
-    }
-  ],
+  "orders": [],
   "availableIngredients": [],
   "customTags": [
     "炒菜",
