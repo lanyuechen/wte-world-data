@@ -14,6 +14,25 @@
       "description": "1. 鸡蛋炒散备用\n2. 锅中加入葱爆香后加入西红柿翻炒出沙\n3. 加入鸡蛋翻炒入味，出锅前加入蒜末，搅拌均匀",
       "createdAt": "2026-10-15T05:17:07.931Z",
       "updatedAt": "2026-10-15T05:27:34.607Z"
+    },
+    {
+      "id": "5e979879-ece6-41cb-a387-2bb3ddf84a9e",
+      "name": "打卤面",
+      "ingredients": [
+        "面条",
+        "香菇",
+        "木耳",
+        "豆腐",
+        "黄花菜",
+        "鸡蛋"
+      ],
+      "thumbnail": "assets/thumbnails/5e979879-ece6-41cb-a387-2bb3ddf84a9e.jpg",
+      "tags": [
+        "主食"
+      ],
+      "description": "1. 煮面\n2. 做卤",
+      "createdAt": "2026-10-15T06:05:32.829Z",
+      "updatedAt": "2026-10-15T06:05:32.829Z"
     }
   ],
   "orders": [],
