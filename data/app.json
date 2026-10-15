@@ -127,7 +127,24 @@
       "updatedAt": "2026-01-01T00:00:00.000Z"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "e5f41383-c203-41fe-817d-a24c4b0ad375",
+      "title": "吃什么 · 2026/10/15 12:21:39",
+      "recipeIds": [
+        "demo-tomato-egg"
+      ],
+      "ingredientStatus": {
+        "番茄": "need",
+        "鸡蛋": "need",
+        "葱": "need",
+        "盐": "need",
+        "油": "need"
+      },
+      "createdAt": "2026-10-15T04:21:39.886Z",
+      "updatedAt": "2026-10-15T04:21:39.886Z"
+    }
+  ],
   "availableIngredients": [],
   "customTags": [],
   "collabRoomId": "home"
