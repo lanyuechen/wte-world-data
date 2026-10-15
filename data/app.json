@@ -1,26 +1,6 @@
 {
   "recipes": [
     {
-      "id": "demo-tomato-egg",
-      "name": "番茄炒蛋",
-      "ingredients": [
-        "番茄",
-        "鸡蛋",
-        "葱",
-        "盐",
-        "油"
-      ],
-      "thumbnail": "",
-      "tags": [
-        "午餐",
-        "晚餐",
-        "小炒"
-      ],
-      "description": "经典家常菜。\n\n1. 鸡蛋打散煎熟盛出\n2. 番茄炒出汁\n3. 合炒调味",
-      "createdAt": "2026-01-01T00:00:00.000Z",
-      "updatedAt": "2026-01-01T00:00:00.000Z"
-    },
-    {
       "id": "demo-egg-fried-rice",
       "name": "蛋炒饭",
       "ingredients": [
