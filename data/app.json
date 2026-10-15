@@ -1,5 +1,132 @@
 {
-  "recipes": [],
+  "recipes": [
+    {
+      "id": "demo-tomato-egg",
+      "name": "番茄炒蛋",
+      "ingredients": [
+        "番茄",
+        "鸡蛋",
+        "葱",
+        "盐",
+        "油"
+      ],
+      "thumbnail": "",
+      "tags": [
+        "午餐",
+        "晚餐",
+        "小炒"
+      ],
+      "description": "经典家常菜。\n\n1. 鸡蛋打散煎熟盛出\n2. 番茄炒出汁\n3. 合炒调味",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-egg-fried-rice",
+      "name": "蛋炒饭",
+      "ingredients": [
+        "米饭",
+        "鸡蛋",
+        "葱",
+        "盐",
+        "油"
+      ],
+      "thumbnail": "",
+      "tags": [
+        "午餐",
+        "晚餐",
+        "主食",
+        "快手"
+      ],
+      "description": "剩饭克星。鸡蛋液炒散后下饭，加葱花出锅。",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-potato-beef",
+      "name": "土豆炖牛腩",
+      "ingredients": [
+        "牛腩",
+        "土豆",
+        "胡萝卜",
+        "姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "thumbnail": "",
+      "tags": [
+        "午餐",
+        "晚餐",
+        "主食"
+      ],
+      "description": "牛腩焯水后与土豆胡萝卜慢炖至软烂。",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-egg-soup",
+      "name": "紫菜蛋花汤",
+      "ingredients": [
+        "紫菜",
+        "鸡蛋",
+        "葱",
+        "盐",
+        "香油"
+      ],
+      "thumbnail": "",
+      "tags": [
+        "午餐",
+        "晚餐",
+        "汤"
+      ],
+      "description": "水开后下紫菜，淋入蛋液，调味点香油。",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-cucumber",
+      "name": "拍黄瓜",
+      "ingredients": [
+        "黄瓜",
+        "蒜",
+        "醋",
+        "生抽",
+        "香油",
+        "盐"
+      ],
+      "thumbnail": "",
+      "tags": [
+        "午餐",
+        "晚餐",
+        "凉菜",
+        "快手"
+      ],
+      "description": "黄瓜拍裂切段，拌入蒜末与调味汁。",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "demo-congee",
+      "name": "皮蛋瘦肉粥",
+      "ingredients": [
+        "大米",
+        "皮蛋",
+        "瘦肉",
+        "姜",
+        "盐",
+        "葱"
+      ],
+      "thumbnail": "",
+      "tags": [
+        "早餐",
+        "主食",
+        "汤"
+      ],
+      "description": "米粥煮软后下肉丝与皮蛋，出锅撒葱花。",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
   "orders": [],
   "availableIngredients": [],
   "customTags": [],
