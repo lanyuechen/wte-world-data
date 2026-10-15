@@ -2,6 +2,8 @@
   "recipes": [],
   "orders": [],
   "availableIngredients": [],
-  "customTags": [],
+  "customTags": [
+    "炒菜"
+  ],
   "collabRoomId": "wte-home"
 }
