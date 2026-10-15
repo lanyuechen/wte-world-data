@@ -48,12 +48,12 @@
         "鸡蛋": "need",
         "面条": "need",
         "香菇": "need",
-        "木耳": "need",
+        "木耳": "have",
         "豆腐": "need",
         "黄花菜": "need"
       },
       "createdAt": "2026-10-15T07:43:12.804Z",
-      "updatedAt": "2026-10-15T09:49:37.018Z"
+      "updatedAt": "2026-10-15T09:50:20.049Z"
     }
   ],
   "availableIngredients": [],
