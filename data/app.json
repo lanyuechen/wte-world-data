@@ -594,7 +594,42 @@
       "updatedAt": "2026-10-16T04:35:15.851Z"
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "e5c9b004-9a96-4540-bcdb-5d3af6ab9b90",
+      "title": "WTE-5738F98C-20261016-133608-9D05",
+      "recipeIds": [
+        "448d03f8-bce3-4471-975d-7150059640e8",
+        "55143ef6-1346-4179-a6e3-a282b540dc4f",
+        "93fb1f16-4978-4a0c-9ab9-ea501886cc4c"
+      ],
+      "ingredientStatus": {
+        "猪后腿肉（或鲜嫩里脊）": "have",
+        "蒜薹": "have",
+        "葱": "have",
+        "姜末": "have",
+        "水淀粉": "have",
+        "酱油": "have",
+        "盐": "have",
+        "牛肉": "have",
+        "干红辣椒": "have",
+        "姜": "have",
+        "蒜": "have",
+        "青椒": "have",
+        "生抽": "have",
+        "胡椒粉": "have",
+        "生粉": "have",
+        "花椒": "have",
+        "料酒": "have",
+        "土豆": "have",
+        "干辣椒": "have",
+        "白醋": "have",
+        "味极鲜酱油": "have"
+      },
+      "createdAt": "2026-10-16T05:36:08.470Z",
+      "updatedAt": "2026-10-16T05:36:08.470Z"
+    }
+  ],
   "availableIngredients": [
     "13香",
     "八角",
