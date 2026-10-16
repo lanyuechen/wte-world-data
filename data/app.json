@@ -599,18 +599,11 @@
       "id": "97631a41-c903-46bf-aeca-cb0914ad07ec",
       "title": "WTE-701AF36D-20261016-134905-7144",
       "recipeIds": [
-        "93fb1f16-4978-4a0c-9ab9-ea501886cc4c",
         "1923992a-77c3-4352-95f4-f7cdac00f5f1",
         "55143ef6-1346-4179-a6e3-a282b540dc4f",
         "448d03f8-bce3-4471-975d-7150059640e8"
       ],
       "ingredientStatus": {
-        "土豆": "have",
-        "干辣椒": "have",
-        "青椒": "need",
-        "白醋": "have",
-        "味极鲜酱油": "have",
-        "盐": "need",
         "西兰花": "need",
         "胡萝卜": "need",
         "大虾": "need",
@@ -618,6 +611,7 @@
         "蒜末": "need",
         "姜末": "need",
         "耗油": "need",
+        "盐": "need",
         "十三香": "need",
         "生抽": "need",
         "食用油": "need",
@@ -625,6 +619,7 @@
         "干红辣椒": "need",
         "姜": "need",
         "蒜": "need",
+        "青椒": "need",
         "酱油": "need",
         "胡椒粉": "need",
         "生粉": "need",
@@ -636,7 +631,7 @@
         "水淀粉": "need"
       },
       "createdAt": "2026-10-16T05:49:05.445Z",
-      "updatedAt": "2026-10-16T06:07:43.156Z"
+      "updatedAt": "2026-10-16T06:28:31.675Z"
     },
     {
       "id": "8813e7b2-b12e-4c91-a2c6-5991be25aa46",
@@ -718,6 +713,5 @@
       "updatedAt": "2026-10-16T05:36:08.470Z"
     }
   ],
-  "availableIngredients": [],
-  "collabRoomId": "wte-home"
+  "availableIngredients": []
 }
