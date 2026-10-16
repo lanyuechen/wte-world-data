@@ -596,6 +596,34 @@
   ],
   "orders": [
     {
+      "id": "97631a41-c903-46bf-aeca-cb0914ad07ec",
+      "title": "WTE-701AF36D-20261016-134905-7144",
+      "recipeIds": [
+        "93fb1f16-4978-4a0c-9ab9-ea501886cc4c",
+        "1923992a-77c3-4352-95f4-f7cdac00f5f1"
+      ],
+      "ingredientStatus": {
+        "土豆": "have",
+        "干辣椒": "have",
+        "青椒": "have",
+        "白醋": "have",
+        "味极鲜酱油": "have",
+        "盐": "have",
+        "西兰花": "have",
+        "胡萝卜": "have",
+        "大虾": "have",
+        "葱花": "have",
+        "蒜末": "have",
+        "姜末": "have",
+        "耗油": "have",
+        "十三香": "have",
+        "生抽": "have",
+        "食用油": "have"
+      },
+      "createdAt": "2026-10-16T05:49:05.445Z",
+      "updatedAt": "2026-10-16T05:49:05.445Z"
+    },
+    {
       "id": "8813e7b2-b12e-4c91-a2c6-5991be25aa46",
       "title": "WTE-701AF36D-20261016-134722-6EF6",
       "recipeIds": [
