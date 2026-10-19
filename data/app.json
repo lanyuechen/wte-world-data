@@ -605,6 +605,20 @@
       "description": "",
       "createdAt": "2026-10-19T07:29:20.124Z",
       "updatedAt": "2026-10-19T07:29:20.124Z"
+    },
+    {
+      "id": "fbc2bb03-931b-405f-aa5b-0491bc494dad",
+      "name": "西红柿疙瘩汤",
+      "ingredients": [
+        "西红柿",
+        "鸡蛋",
+        "面粉"
+      ],
+      "thumbnail": "",
+      "tags": [],
+      "description": "",
+      "createdAt": "2026-10-19T07:30:20.032Z",
+      "updatedAt": "2026-10-19T07:30:20.032Z"
     }
   ],
   "orders": [
